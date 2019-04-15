@@ -1,0 +1,38 @@
+section {
+	height: 1vh;
+	width: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.white {
+	background-color: #fff;
+}
+
+.black {
+	background-color: #000;
+}
+
+.green {
+	background-color: #00f10a;
+}
+
+.pen {
+	background-image: url("./1-Assets/the-pen.svg");
+}
+
+.mightier {
+	background-image: url("./1-Assets/is-mightier.svg");
+}
+
+.than {
+	background-image: url("./1-Assets/than.svg");
+}
+
+.sword {
+	background-image: url("./1-Assets/the-sword.svg");
+}
+
+.end {
+	background-image: url("./1-Assets/end.svg");
+}
