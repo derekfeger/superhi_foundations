@@ -36,3 +36,11 @@ section {
 .end {
 	background-image: url("./1-Assets/end.svg");
 }
+
+footer {
+	position: fixed;
+	bottom: 30px;
+	width: 40px;
+	left: 50%;
+	margin-left: -20px;
+}
